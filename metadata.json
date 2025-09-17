@@ -1,0 +1,5 @@
+{
+  "name": "Body Composition Calculator",
+  "description": "Calculates body composition metrics such as body fat percentage, BMI, fat mass, and lean mass based on user-provided measurements.",
+  "requestFramePermissions": []
+}
